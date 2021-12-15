@@ -1,0 +1,45 @@
+header {
+    background-color: black;
+}
+
+.div_menu {
+    text-align: left;
+}
+
+.menu {
+    color:white;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:300;
+    font-size:large;
+    line-height:normal;
+    font-family:serif;
+    text-transform: uppercase;
+}
+
+.slider_div {
+    padding: 1% 5% 1% 8%;
+    
+}
+
+p {
+    text-align:justify;
+    font:normal normal 100 20px/1 serif;
+    margin-bottom: 28px;
+}
+
+footer {
+    text-align:center;
+    background-color:black;
+}
+
+.footer {
+    font: 20px Arial;
+    color:white;
+    text-transform: capitalize;
+}
+
+.footer_alamat {
+    color:white;
+    text-transform:capitalize   ;
+}
